@@ -1,0 +1,46 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=395
+END=3899
+title=Each page from toolbar Check link in buttons on welcome page and click on it
+[CHAPTER]
+TIMEBASE=1/1000
+START=-448
+END=7411
+title=Each page from toolbar Click through each link in toolbar
+[CHAPTER]
+TIMEBASE=1/1000
+START=11628
+END=15276
+title=Each page from toolbar Welcome page Next Steps section test
+[CHAPTER]
+TIMEBASE=1/1000
+START=16636
+END=18928
+title=Each page from toolbar Form submit test - incorrect flow without providing power
+[CHAPTER]
+TIMEBASE=1/1000
+START=19573
+END=21228
+title=Each page from toolbar Form submit test - incorrect flow without providing name 
+[CHAPTER]
+TIMEBASE=1/1000
+START=20496
+END=22885
+title=Each page from toolbar Form submit test - correct flow
+[CHAPTER]
+TIMEBASE=1/1000
+START=22416
+END=25275
+title=Each page from toolbar Stepper page test - incorrect flow without providing name
+[CHAPTER]
+TIMEBASE=1/1000
+START=25666
+END=28136
+title=Each page from toolbar Stepper page test - incorrect flow without providing adress
+[CHAPTER]
+TIMEBASE=1/1000
+START=26315
+END=30612
+title=Each page from toolbar Stepper page test - correct flow with back and reset
