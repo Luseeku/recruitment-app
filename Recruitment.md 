@@ -1,0 +1,12 @@
+#Setup
+
+Node version: v18.12.1
+NPM version: v8.19.2
+Cypress package version: 12.0.0
+Cypress binary version: 12.0.0
+Electron version: 21.0.0
+Bundled Node version: 16.16.0
+
+#Run test 
+In terminal go to recruitment-app folder and run 'ng serve'.
+In new window of terminal in recruitment-app folder run 'npx cypress run'
